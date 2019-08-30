@@ -1,0 +1,7 @@
+setup.py
+colabsetup/__init__.py
+colabsetup.egg-info/PKG-INFO
+colabsetup.egg-info/SOURCES.txt
+colabsetup.egg-info/dependency_links.txt
+colabsetup.egg-info/not-zip-safe
+colabsetup.egg-info/top_level.txt
